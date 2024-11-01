@@ -11,3 +11,4 @@ Test set accuracy: 0.9933
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 myucanlar@gmail.com
 https://github.com/mikbalyilmaz
+www.linkedin.com/in/muhammed-ikbal-yilmaz-36622a276
