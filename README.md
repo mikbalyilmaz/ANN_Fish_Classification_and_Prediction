@@ -1,3 +1,20 @@
+Bütün haklar saklıdır.
+
+Bu projenin tüm hakları saklıdır. Kodun, tasarımın ve içeriğin izinsiz olarak kopyalanması, dağıtılması, değiştirilmesi veya herhangi bir şekilde kullanılması yasaktır.
+© 2025 mikbalyilmaz
+
+
+****************************************************************************************************************************************
+
+
+All rights reserved.
+
+All rights to this project are reserved. The code, design, and content may not be copied, distributed, modified, or used in any way without permission.
+© 2025 mikbalyilmaz
+
+
+****************************************************************************************************************************************
+
 ANN Fish Classificaiton and Prediction;
 A deep learning model has been developed for the classification of fish species using image data. The goal is to create a robust and accurate model capable of effectively recognizing various types of fish from images. This project serves as a portfolio piece to demonstrate proficiency in machine learning (ML), image processing, and artificial neural networks (ANN). The project utilizes TensorFlow, a powerful open-source library for machine learning and deep learning, which provides a comprehensive ecosystem for building, training, and deploying ML models. TensorFlow is specifically used to construct the neural network architecture by leveraging the Keras API for creating layers, compiling the model, and fitting the model to the training data. NumPy, a fundamental package for scientific computing in Python, is utilized for handling and manipulating arrays, particularly for image data and labels. Pandas, a powerful data manipulation and analysis library, is used to read, process, and analyze the dataset containing image paths and corresponding labels. Matplotlib is employed for creating static, animated, and interactive visualizations, enabling the visualization of the training process and evaluation of model performance through accuracy and loss metric plots. Seaborn provides a high-level interface for drawing attractive statistical graphics and is used to create aesthetically pleasing visualizations, such as heatmaps for confusion matrices. Pillow (PIL) adds image processing capabilities to Python, facilitating the loading and processing of images for input into the model. Keras, as a high-level API for building and training deep learning models, simplifies the model creation process with pre-defined layers and structures. Scikit-learn provides tools for data mining and analysis, including various algorithms for classification, regression, and clustering, and is used for model evaluation metrics. Finally, ImageDataGenerator is employed for real-time data augmentation, enhancing the model's robustness by generating modified versions of images during training (credit to George Edward P. Box for this concept). The combination of these libraries and tools enables efficient handling, processing, analysis, and evaluation of image data within this project, showcasing the application of advanced ML techniques and demonstrating the development of practical, real-world applications in the field of computer vision.
 
