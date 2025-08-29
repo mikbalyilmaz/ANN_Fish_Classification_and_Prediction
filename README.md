@@ -7,7 +7,7 @@ Bu projenin tüm hakları saklıdır. Kodun, tasarımın ve içeriğin izinsiz o
 ****************************************************************************************************************************************
 
 
-All rights reserved.
+© All rights reserved.
 
 All rights to this project are reserved. The code, design, and content may not be copied, distributed, modified, or used in any way without permission.
 © 2025 mikbalyilmaz
